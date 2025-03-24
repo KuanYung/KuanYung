@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there! 👋 I'm Aidan (冠詠)
+# Hi there! 👋 I'm Kuan-Yung Chen (冠詠)
 
 🎯 **Aspiring Data Scientist | AI Enthusiast | Tech & Art Explorer**
 
