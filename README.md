@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Hi there! 👋 I'm Kuan-Yung Chen (冠詠)
 
-🎯 **Aspiring Data Scientist | AI Enthusiast | Tech & Art Explorer**
+🎯 **Aspiring Tech & Art Explorer**
 
 ---
 
