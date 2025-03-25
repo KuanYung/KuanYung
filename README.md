@@ -69,5 +69,6 @@ I'm a dual-major student studying **Information Management** and **Computer Scie
 - 📫 [Email](mailto:chenkaunyung@outlook.com)
 <!--
 - 🌐 [Portfolio](https://your-portfolio-link.com)
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
---!>
+-->
+- 🔗 [LinkedIn](http://www.linkedin.com/in/kuan-yung)
+
