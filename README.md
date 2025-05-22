@@ -53,7 +53,7 @@ I'm a dual-major student studying **Information Management** and **Computer Scie
 ---
 
 ## 💻 Technical Skills
-- **Programming Languages:** Python, C++, Java
+- **Programming Languages:** Python, C, C++, Java, SQL
 - **Computer Vision Tools:** YOLO
 - **Languages:** English (IELTS Overall Band Score 7.0), Chinese (Native)
 
