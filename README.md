@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there! 👋 I'm Kuan-Yung Chen (冠詠)
+# Hi there! 👋 I'm Kuan-Yung Chen (陳冠詠)
 
 🎯 **Aspiring Tech & Art Explorer**
 
@@ -44,7 +44,7 @@ I'm a dual-major student studying **Information Management** and **Computer Scie
 ---
 
 ## 📚 Extracurricular Activities
-- **Graphic Designer** at the Information Technology Club (2024)
+  - **Graphic Designer** at the Information Technology Club (2024)
   - Assisted in organizing and managing promotional materials for coding basics sessions for non-IT students.
 
 - **Teaching Assistant** at Summer Science Camp (2023)
