@@ -38,7 +38,7 @@ I'm a dual-major student studying **Information Management** and **Computer Scie
 
 ## 🏆 Awards
 - **2024 Linker Creative Marketing Competition**
-  - 🏅 *Best Digital Application Award*
+  - *Best Digital Application Award*
   - Proposed AR interactions and cultural revitalization solutions for a local temple festival.
 
 ---
@@ -66,9 +66,9 @@ I'm a dual-major student studying **Information Management** and **Computer Scie
 ---
 
 ## 🚀 Let's Connect!
-- 📫 [Email](mailto:chenkaunyung@outlook.com)
+- [Email](mailto:chenkaunyung@outlook.com)
 <!--
 - 🌐 [Portfolio](https://your-portfolio-link.com)
 -->
-- 🔗 [LinkedIn](http://www.linkedin.com/in/kuan-yung)
+- [LinkedIn](http://www.linkedin.com/in/kuan-yung)
 
