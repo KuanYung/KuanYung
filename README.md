@@ -59,6 +59,12 @@ I’m a double-major student studying Information Management and Computer Scienc
 
 ---
 
+## 📖 Resources
+- **[Performance Optimization Guide](PERFORMANCE_OPTIMIZATION_GUIDE.md)**: Comprehensive guide for writing efficient code across Python, C++, Java, and AI/CV applications
+- **[Code Examples](code-examples/)**: Runnable benchmarks demonstrating performance optimization techniques
+
+---
+
 ## 🎨 Other Interests
 - **Photography**: Exploring the intersection of art and technology.
 - **Cultural Tours**: Fascinated by history, literature, architecture, and local traditions.
